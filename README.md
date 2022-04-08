@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fraquia
+- 👋 Hi, I’m Emanuele
 - 👀 I’m a recently graduated Data Sciencist 
 - 🌱 I’m currently working on Deep Learning and Machile Learning models, NLP using Transformer's architecture 
 - 📫 How to reach me emanuele.fratocchi90@gmail.com

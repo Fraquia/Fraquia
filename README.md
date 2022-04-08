@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emanuele
-- I have a bachelor Degree in Business Management and a Master Degree in Data Science. 
+- I have a Bachelor Degree in Business Management and a Master Degree in Data Science. 
 - I’m currently working on Deep Learning and Machile Learning models, NLP using Transformer's architecture 
 - 📫 How to reach me emanuele.fratocchi90@gmail.com
 
